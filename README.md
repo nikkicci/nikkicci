@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikkicci
+- 👋 Hi, I’m Nikki
 - 🤖 I’m interested in machinelearning, AI, dataanlysis and data science - with focus on data governence
 - 🌱 I’m currently learning data management
 
